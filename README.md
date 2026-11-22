@@ -43,5 +43,6 @@ Conclusion
 This project demonstrates how Microsoft Excel can be used to clean, analyse, and visualise retail sales data to support better business decisions.
 
 
-Author
+Author:
+
 Obioma Eucharia Aneke
