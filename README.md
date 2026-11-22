@@ -44,5 +44,4 @@ This project demonstrates how Microsoft Excel can be used to clean, analyse, and
 
 
 Author
-
-Aspiring Data Analyst
+Obioma Eucharia Aneke
